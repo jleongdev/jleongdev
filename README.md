@@ -93,8 +93,7 @@
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>&nbsp;
-<img src="https://img.shields.io/badge/Data%20Science-blue?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=flat" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>&nbsp;
 </td>
 </tr>
 <tr>
