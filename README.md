@@ -1,6 +1,6 @@
 <!-- ===== HEADER INTRO ===== -->
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I%20am%20Jerry!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&text=Hi%20%F0%9F%91%8B%20I%20am%20Jerry!&fontSize=70&fontColor=FFFFFF&color=0:4F8CFF,100:0A1931" />
 </div>
 
 ###
