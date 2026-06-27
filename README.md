@@ -75,8 +75,8 @@
 <td><b>Mobile Development</b></td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40" alt="iOS"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" height="40" alt="Xcode"/>
+<img src="https://cdn.simpleicons.org/apple/000000/ffffff" height="40" alt="iOS"/>&nbsp;
+<img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode"/>
 </td>
 </tr>
 <tr>
@@ -107,17 +107,8 @@
 <td><b>Tools</b></td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-</td>
-</tr>
-</table>
-<tr>
-<td><b>Creative Tech</b></td>
-<td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="40" alt="Unity"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" height="40" alt="Maya"/>&nbsp;
-<img src="https://cdn.simpleicons.org/figma/F24E1E" height="38" alt="Figma"/>
 </td>
 </tr>
 </table>
