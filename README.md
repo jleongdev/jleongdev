@@ -38,6 +38,17 @@
 
 ###
 
+## ✨ A Little About Me
+
+- 🎓 First-year Computer Science student at Monash University Malaysia
+- 🤖 Interested in artificial intelligence, software engineering, and intelligent applications
+- 💻 Enjoy building projects with modern technologies and learning new tools
+- 📊 Curious about data, automation, and practical AI solutions
+- 🌏 Based in Kuala Lumpur, Malaysia
+- ✈️ Outside of tech, I enjoy travelling, exploring new places, and discovering new ideas
+
+###
+
 ### Languages and Tools:
 
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]
