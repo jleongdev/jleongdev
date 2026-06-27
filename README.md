@@ -61,6 +61,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40" alt="Swift"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="Dart"/>
 </td>
 </tr>
 <tr>
@@ -109,6 +111,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
 </td>
 </tr>
 </table>
