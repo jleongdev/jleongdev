@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm Jerry Leong</h1>
+<!-- ===== HEADER INTRO ===== -->
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B%20I%20am%20Jerry!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/jerryleongjunfai?logo=GitHub&style=for-the-badge)
+###
+<!-- ===== SOCIALS ===== -->
+<div align="center">
+  <a href="mailto:leong.jerry@icloud.com">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="47"
+      height="35"
+      alt="gmail logo"
+    />
+  </a>
 
-- 🔭 I’m currently working on  [Chimp Memory](https://github.com/jerryleongjunfai/chimp-memory/tree/main)
+  <a href="https://www.linkedin.com/in/jerryleongjf/">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="47"
+      height="35"
+      alt="linkedin logo"
+    />
+  </a>
 
-- 🌱 I’m currently learning **Python, Networking, Cybersecurity, Database management, Swift, SwiftUI**
 
+<a href="https://portfolio-90d8d.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-b79eef?style=for-the-badge" />
+</a>
+</div>
 
-<br />
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jleongdev.jleongdev&"  />
+</div>
+
+###
 
 ### Languages and Tools:
 
