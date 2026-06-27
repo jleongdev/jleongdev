@@ -29,6 +29,20 @@
 <br />
 
 
+###
+<!-- ===== GITHUB STATS ===== -->
+## 📊 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jleongdev&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleongdev&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+###
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jleongdev/jleongdev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jleongdev/jleongdev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jleongdev/jleongdev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
