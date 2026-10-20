@@ -81,6 +81,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>&nbsp;
 <img src="https://cdn.simpleicons.org/apple/000000/ffffff" height="40" alt="iOS"/>&nbsp;
 <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="Xcode"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>&nbsp;
 </td>
 </tr>
 <tr>
