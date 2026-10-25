@@ -101,8 +101,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook"/>&nbsp;
 </td>
 </tr>
-<tr>
-</tr>
+<td><b>Concepts</b></td>
+<td>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-grey?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/Data%20Structures-grey?style=flat" />&nbsp;
+<img src="https://img.shields.io/badge/Algorithms-grey?style=flat" />
+</td>
 <tr>
 <td><b>Tools</b></td>
 <td>
