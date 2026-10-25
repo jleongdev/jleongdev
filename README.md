@@ -102,14 +102,6 @@
 </td>
 </tr>
 <tr>
-<td><b>Concepts</b></td>
-<td>
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-grey?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/Data%20Structures-grey?style=flat" />&nbsp;
-<img src="https://img.shields.io/badge/Algorithms-grey?style=flat" />
-</td>
-</tr>
-<tr>
 <td><b>Tools</b></td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
