@@ -102,6 +102,8 @@
 </td>
 </tr>
 <tr>
+</tr>
+<tr>
 <td><b>Tools</b></td>
 <td>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
